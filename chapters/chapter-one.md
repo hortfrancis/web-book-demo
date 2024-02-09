@@ -11,3 +11,5 @@ But just when the party was at its peak, a group of snooty swans waddled by, sco
 The dance-off was fierce and frenetic. Quackers spun, twirled, and moonwalked like never before, while the swans flapped their wings and attempted to imitate his moves. In the end, the judges (a trio of wise old owls) declared Quackers the undisputed champion of the dance-off.
 
 From that day on, Quackers was hailed as the king of the disco pond. He danced his heart out every night under the magical disco ball, spreading joy and laughter to all the creatures of the forest. And as for the snooty swans? Well, let's just say they learned never to underestimate the power of a duck with a dream and some fancy footwork. And they even joined in on the dance parties eventually, becoming Quackers' biggest fans.
+
+[Chapter Two](chapter-two.md)
